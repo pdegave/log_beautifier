@@ -100,13 +100,10 @@ To analyze a specific audit log file:
 
 ---
 
-##  Current Status : 
+## Features : 
 
 - Rancher Audit Logs:  Supported  
 - RKE2 Audit Logs: Supported  
-
-## Improvement(WIP) : 
-
 - Sort the list with max hit count/Duration (eg: summary)
 - Audit to CSV
 - Load/stress testing
